@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Attack_zone
+  - damage_zone
+  - Enemy
+  - bullet
+  - Damageble
+  - Ground
+  - coin
+  - mob_aggr_zone
+  - platform
+  - slider_trigger
+  - key
+  - dead_zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - NPC
+  - coin
+  - Boss
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 4230011747
+    locked: 0
+  - name: Front
+    uniqueID: 1339256515
+    locked: 0
+  - name: Main
+    uniqueID: 1058835571
+    locked: 0
